@@ -1,6 +1,6 @@
 {
   "name": "ember-qunit-5-codemod",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "keywords": [
     "codemod-cli"
   ],
